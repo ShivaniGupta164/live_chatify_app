@@ -9,7 +9,6 @@ Highlights:
 - 🟢 Online/Offline Presence Indicators
 - 🔔 Notification & Typing Sounds (with toggle)
 - 📨 Welcome Emails on Signup (Resend)
-- 🗂️ Image Uploads (Cloudinary)
 - 🧰 REST API with Node.js & Express
 - 🧱 MongoDB for Data Persistence
 - 🚦 API Rate-Limiting powered by Arcjet
