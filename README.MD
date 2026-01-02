@@ -1,6 +1,19 @@
 <h1 align="center">✨ Full-Stack Chat App with Auth & Emails ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
+## 📸 Application Screenshots
+
+### 🔐 Sign In / Sign Up
+![Sign In Sign Up](frontend/public/sign-in-%20sign-up.png)
+
+### 💬 Chat Application Screens
+
+<p align="center">
+  <img src="frontend/public/s1.png" width="30%" />
+  <img src="frontend/public/s2.png" width="30%" />
+  <img src="frontend/public/s3.png" width="30%" />
+</p>
+
 
 Highlights:
 
